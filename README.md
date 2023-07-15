@@ -5,5 +5,7 @@
  Wanna check it out ??!! 
 
 
-here is the <a href="simplecardioplan.netlify.app">Link!</a>
+here is the Link!
+
+simplecardioplan.netlify.app
 
