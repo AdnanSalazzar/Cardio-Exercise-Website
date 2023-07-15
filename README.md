@@ -1,10 +1,9 @@
 
-  # Excrecise
+  # Simple Workout Program Landing page made for you
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+ A simple Responsive Landing Page 
+ Wanna check it out ??!! 
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+
+here is the <a href="simplecardioplan.netlify.app">Link!</a>
+
